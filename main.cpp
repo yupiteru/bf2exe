@@ -153,8 +153,8 @@ int main(int argc, char** argv) {
                 }
               } break;
               default: {
-                std::cout << "Error: Found a unknown character at " << lineCount << "line." << std::endl;
-                return 1;
+                //std::cout << "Error: Found a unknown character at " << lineCount << "line." << std::endl;
+                //return 1;
               } break;
             }
             ++it;
